@@ -5,34 +5,33 @@
 
 ## The story so far
 
-I've spent over **6 years** building enterprise software, moving from hands-on development of web applications and RESTful services to technical leadership of cloud infrastructure and development standards. At Hexaware Technologies, I built full-stack Java applications with Spring Boot and Hibernate, integrated OAuth 2.0 authentication, and developed SQL stored procedures across MySQL and PostgreSQL. At Blackstone Technologies, I designed application components using object-oriented principles and prepared technical documentation.
+I've spent over **6 years** building enterprise software. At Hexaware Technologies, I developed web applications with Spring Boot and Hibernate, implemented OAuth 2.0 authentication, and wrote RESTful APIs.
 
-Today at The Coca-Cola Company, I provide technical leadership for development initiatives, conducting code reviews, establishing engineering standards, and monitoring application performance. I configure and manage AWS resources including EC2, S3, and Lambda to support application deployments and infrastructure operations. I also develop responsive frontend components with React and collaborate with business stakeholders to evaluate technical solutions and coordinate delivery timelines.
+Now at The Coca-Cola Company, I conduct code reviews and manage AWS infrastructure including EC2, S3, and Lambda. I build React frontends and Java backend services.
 
 ## Milestone work
 
 | Initiative | Scope | Outcome |
-|-----------|-------|---------|
-| AWS Infrastructure Management | Configured EC2, S3, and Lambda resources for application deployments | Optimized cloud infrastructure for scalability, reliability, and cost efficiency |
-| Enterprise Java Applications | Built applications using Java, J2EE, and object-oriented programming | Supported application architecture, technical design, and hands-on development |
-| RESTful API Development | Developed web services using XML and JSON for data exchange | Integrated internal application components and enabled data sharing |
-| Spring Security Integration | Implemented authentication and authorization with OAuth 2.0 | Secured application access and protected user data |
-| Database Operations | Created SQL queries, stored procedures, and ORM integrations with Hibernate | Reduced redundant database access and improved data persistence |
-| Frontend Development | Built responsive components using React, JSX, HTML, CSS, and JavaScript | Delivered user-facing features aligned with application requirements |
+|------------|-------|---------|
+| AWS Infrastructure Management | Configured and optimized EC2, S3, and Lambda resources for application deployments | Improved scalability, reliability, and cost efficiency across cloud operations |
+| Enterprise Java Application Development | Built application components using Java, J2EE, and object-oriented design principles | Delivered backend services aligned with architecture standards and business requirements |
+| RESTful API Integration | Developed web services using XML and JSON to connect internal application components | Enabled data exchange and system integration across enterprise platforms |
+| Spring Security Implementation | Integrated OAuth 2.0 authentication and authorization into web applications | Secured application access with role-based controls and industry-standard protocols |
+| Database Operations Optimization | Implemented Spring Data JDBC and Hibernate ORM with MySQL and PostgreSQL | Reduced redundant database access and improved data persistence performance |
 
 <details>
 <summary>Behind AWS Infrastructure Management</summary>
 
-At The Coca-Cola Company, I configure and manage AWS cloud resources to support application deployments and infrastructure operations. I work with EC2 instances, S3, and Lambda, supporting application deployments, infrastructure operations, and cloud-based solutions. I monitor application performance, proactively identify risks, and resolve deployment issues. I optimize AWS infrastructure for scalability, reliability, and cost efficiency.
+At The Coca-Cola Company, I manage AWS resources. I configure EC2 instances, S3 storage, and Lambda functions.
 
 </details>
 
 ## Credentials
 
-- **Master of Science** in Computer Science, Kennesaw State University
-- **Bachelor of Science** in Computer Engineering, Silver Oak University
-- **Oracle Certified Java Programmer (OCJP)**, Oracle – *January 2018*
-- **Red Hat Certified System Administrator (RHCSA)**, Red Hat – *January 2019*
+- **Master of Science**, Computer Science – Kennesaw State University
+- **Bachelor of Science**, Computer Engineering – Silver Oak University
+- **Oracle Certified Java Programmer (OCJP)** – Oracle, *January 2018*
+- **Red Hat Certified System Administrator (RHCSA)** – Red Hat, *January 2019*
 
 ## What's next
 
@@ -50,3 +49,4 @@ At The Coca-Cola Company, I configure and manage AWS cloud resources to support 
 - [tailsample](https://github.com/KPatelce/tailsample) — A Rust tail-based trace sampler over OTLP/gRPC and HTTP with bounded-memory buffering, ordered sampling policies, per-policy span budgets and backpressure.
 - [tagvault](https://github.com/KPatelce/tagvault) — An industrial process historian in Rust: Sparkplug B MQTT ingest, swinging-door compression with a proven error bound, Gorilla-encoded storage and a crash-safe…
 - [minirun](https://github.com/KPatelce/minirun) — A minimal OCI-style Linux container runtime in Go that builds containers from namespaces, cgroup v2, overlayfs, pivot_root, capabilities and a self-written…
+- [mcpgate](https://github.com/KPatelce/mcpgate) — A Python security gateway for the Model Context Protocol that fronts many MCP servers with OAuth bearer validation, per-client tool RBAC, rate limits, audit…
